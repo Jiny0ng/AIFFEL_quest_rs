@@ -4,25 +4,54 @@
 
 ---
 
-레포구조
+폴더구조
 ```plaintext
-레포구조
-├── Exploration
-│   └── Ex01
+AIFFEL_quest_rs/
+├── Exploration/
+│   └── Ex01/
 │       └── README.md
-.   .
-.   .
-.   .
-│       
-│   └── Ex07
+│   └── Ex02/
 │       └── README.md
-├── GoingDeeper
-├── MainQuest
-│   └── Quest01
+│   └── Ex03/
 │       └── README.md
-.   .
-.   .
-.   .
-│   └── Quest05
+│   └── Ex04/
+│       └── README.md
+│   └── Ex05/
+│       └── README.md
+│   └── Ex06/
+│       └── README.md
+│   └── Ex07/
+│       └── README.md
+│
+├── GoingDeeper/
+│   └── Gd0102/
+│       └── README.md
+│   └── Gd0304/
+│       └── README.md
+│   └── Gd0506/
+│       └── README.md
+│   └── Gd0708/
+│       └── README.md
+│   └── Gd0910/
+│       └── README.md
+│   └── Gd1112/
+│       └── README.md
+│   └── Gd1314/
+│       └── README.md
+│   └── Gd1516/
+│       └── README.md
+│   └── Gd1718/
+│       └── README.md
+│
+├── MainQuest/
+│   └── Quest01/
+│       └── README.md
+│   └── Quest02/
+│       └── README.md
+│   └── Quest03/
+│       └── README.md
+│   └── Quest04/
+│       └── README.md
+│   └── Quest05/
 │       └── README.md
 ```
