@@ -5,12 +5,13 @@
 ---
 
 레포구조
-'''
+```plaintext
+레포구조
 ├── Exploration
 │   └── Ex01
-│       └── README .md
+│       └── README.md
 ├── GoingDeeper
-└── MainQuest
-    └── Quest01
-        └── README .md
-'''
+├── MainQuest
+│   └── Quest01
+│       └── README.md
+```
